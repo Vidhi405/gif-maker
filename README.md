@@ -14,3 +14,8 @@ imageio library
 for imageio library, simply use "pip install imageio" and you'll be set.
 
 Please keep the images in the same file location as your code for the successful execution of your code!
+
+filenames=['pic1.jpg','pic2.jpg']
+
+Also here instead of pic1 and pic2, use the name of your image file.
+You can use as many files as you want for your gif.
