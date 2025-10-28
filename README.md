@@ -11,6 +11,6 @@ This is just for reference. I'll keep Sonny's code in this repository, and will 
 python3
 imageio library
 
-for imageio library, simply do "pip install imageio" and you'll be set.
+for imageio library, simply use "pip install imageio" and you'll be set.
 
-Please keep the images in the same file location as your code for the code to execute!
+Please keep the images in the same file location as your code for the successful execution of your code!
